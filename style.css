@@ -201,10 +201,7 @@
     transform: translateY(-5px);
   }
   
-  /*========
-    layout
-  ========*/
-  
+/* layout styles */  
   .center {
     display: flex;
     align-items: center;
